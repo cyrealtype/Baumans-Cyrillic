@@ -1,7 +1,9 @@
-Кириллическая версия шрифта Бауманс.
+<b>Кириллическая версия шрифта [Baumans](https://github.com/cyrealtype/Baumans)<br></b>
 Дизайнер: Генадий Заречнюк
 
-Cyrillic version of Baumans. 
+<hr>
+
+<b>Cyrillic version of [Baumans](https://github.com/cyrealtype/Baumans)</b>
 
 Baumans is a geometric typeface for headlines.
 Its letterforms are inspired by Bauhaus typefaces
