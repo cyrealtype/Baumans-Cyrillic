@@ -1,3 +1,6 @@
+Кириллическая версия шрифта Бауманс
+Дизайнер: Генадий Заречнюк
+=======================================
 Cyrillic version of Baumans. 
 
 Baumans is a geometric typeface for headlines.
@@ -19,3 +22,5 @@ Designed by Henadij Zarechnjuk.
 Baumans Cyrillic is a Unicode typeface family that supports 
 languages that use the Latin and Cyrillic script and its variants, and 
 could be expanded to support other scripts.
+
+![Baumans Cyrillic Font](src/sample.png)
